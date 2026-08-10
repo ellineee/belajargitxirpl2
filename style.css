@@ -1,4 +1,8 @@
-.h1{
-    font-size: 2em;
-    font-weight: bold;
-};
+h1{
+    color : rgb(178, 178, 230);
+}
+
+body {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+}
